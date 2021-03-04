@@ -36,11 +36,12 @@ Week 4: Test Driven Development
 -   Technical debt quadrants:
 
 +-------------+---------------------+------------------------------------+
-|             | Reckless            | Prudent                            |
+|             | Reckless (bất cẩn)  | Prudent (khôn ngoan)               |
 +=============+=====================+====================================+
 | Deliberate  | Choose to move fast | Ship it choice                     |
-|             |                     |                                    |
+| (Cố ý)      |                     |                                    |
 |             | Code like hell      | Best way to go as fast as possible |
 +-------------+---------------------+------------------------------------+
 | Inadvertent | Most of assignment  | We learn something                 |
+| (Vô tình)   |                     |                                    |
 +-------------+---------------------+------------------------------------+
